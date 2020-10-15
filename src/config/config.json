@@ -1,0 +1,8 @@
+{
+  "jwtSecret": "d13932ff7b254abff4020793ab1dcd4a",
+  "mongoConnect": "mongodb+srv://tcc:tcc123@cluster0-oqzfn.mongodb.net/acho?retryWrites=true",
+  "mailgunConfig": {
+    "apiKey": "dd82035bbff3fcfbe1183964974a9c7f-4412457b-e36fab70",
+    "domain": "sandbox6ea47d5a78a241278668edc7ac377b35.mailgun.org"
+  }
+}

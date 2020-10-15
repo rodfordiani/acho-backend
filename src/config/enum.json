@@ -1,0 +1,11 @@
+{
+  "objectStatus": {
+    "AVAILABLE": 0,
+    "SOLICITADED": 1,
+    "DEVOLVED": 2
+  },
+  "emailSubject": {
+    "SOLICIT_OBJECT": "SOLICIT_OBJECT",
+    "PASS_RECOVERY": "PASS_RECOVERY"
+  }
+}
